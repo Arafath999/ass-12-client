@@ -1,0 +1,19 @@
+.banner-container {
+    position: relative;
+}
+
+.slide {
+    position: relative;
+}
+
+.legend {
+    position: absolute;
+    top: 83%;
+    left: 40%;
+    right: 40%;
+    /* transform: translate(-50%, -50%); */
+    text-align: center;
+    /* color: #991919; Optional: Set text color */
+    background: rgba(226, 120, 120, 0.7); /* Optional: Set background color with some transparency */
+    padding: 20px; /* Optional: Adjust padding */
+}
